@@ -42,3 +42,6 @@ Dáta: omni_full.csv
 Dáta: train_omni.csv
 - stiahnutie train OMNI dat: https://github.com/Marek929Z/BP-MarekZboray/releases/download/v1.1/train_omni.csv
 
+Dáta: test_omni.csv
+- stiahnutie test OMNI dat: https://github.com/Marek929Z/BP-MarekZboray/releases/download/v1.2/test_omni.csv
+
