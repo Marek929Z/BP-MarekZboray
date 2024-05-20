@@ -1,13 +1,18 @@
 Program: Hospodárska informatika
-
 Vypracoval: Marek Zboray
-
 Bakalárska práca: : Využitie vysvetliteľných techník modelov hlbokého učenia v oblasti spracovania geofyzikálnych dát
-
 Vedúci bakalárskej práce: doc. Ing. Peter Butka, PhD.
-
 Konzultanti: Ing. Viera Krešňáková, PhD., Ing. Lenka Kališková 
 
+
+Súbor: stiahnutie_ulozenie_dat_OMNI.ipynb
+- súbor obsahuje stiahnutie dát a ich ulozenie do csv súboru omni_full.csv
+
+Súbor: data_priprava.ipynb
+- súbor obsahuje prípravu dát a ich uloženie do csv súboru omni_full_plus_indexes.csv
+
+Súbor: final_train_test.ipynb
+- súbor obsahuje prípravu finálnych train a test csv súborov a ich uloženie do súborov train_omni.csv a test_omni.csv
 
 Súbor: 6_1_model_XAI.ipynb
 - súbor obsahuje trénovanie modelu na základe DST indexu 6 h dozadu, predikcia súčasnej hodnoty
