@@ -36,3 +36,6 @@ Súbor: 6_6_model_XAI.ipynb
 - v súbore sa zároveň nachádza časť venovaná XAI, čo zahrňuje definiciu peturbačnej metódy a samotnú analýzu aplikovanej perturbačnej metódy
 - súčasťou tohto súboru sú priečinky: grafy_prvotna_analyza_6_6, analyza_perturb_test_6_6_lok_minimum_2004_2022 a analyza_perturb_test_6_6_lok_minimum_2004_2022_priemerna_lok_hodnota
 
+Dáta: omni_full.csv
+- stiahnutie OMNI dat: https://github.com/Marek929Z/BP-MarekZboray/releases/download/v1.0/omni_full.csv
+
