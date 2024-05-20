@@ -39,3 +39,6 @@ Súbor: 6_6_model_XAI.ipynb
 Dáta: omni_full.csv
 - stiahnutie OMNI dat: https://github.com/Marek929Z/BP-MarekZboray/releases/download/v1.0/omni_full.csv
 
+Dáta: train_omni.csv
+- stiahnutie train OMNI dat: https://github.com/Marek929Z/BP-MarekZboray/releases/download/v1.1/train_omni.csv
+
