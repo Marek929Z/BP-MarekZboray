@@ -8,7 +8,7 @@ Vedúci bakalárskej práce: doc. Ing. Peter Butka, PhD.
 
 Konzultanti: Ing. Viera Krešňáková, PhD., Ing. Lenka Kališková 
 
-Pre prácu s modelom a vysvetliteľnosťou modelu je potrebné na začiatku nainštalovať potrebné balíky. Na prácu je mať potrebné nainštalované prostredie, ktoré podporuje súbory typu .ipynb. 
+Pre prácu s modelom a vysvetliteľnosťou modelu je potrebné na začiatku nainštalovať potrebné balíky. Je potrebné mať nainštalované prostredie, ktoré podporuje súbory typu .ipynb. Kedže ide o súbory typu Jupyter Notebook, jednotlive bloky predstavujú čiastkovú funkcionalitu celého kódu. Pre fungovanie vizualizacie (dashbordu) je potrebné načitať dáta, spracovať ich pomocou TimeSeriesGenerator, natrénovať alebo načítať model, spustiť funkciu pre dashboard a spustiť samotný dashboard. Jednotlivé časti kódu (bloky) sú priamo popísané v každom súbore. 
 
 Popis štruktúry programu:
 
