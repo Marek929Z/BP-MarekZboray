@@ -8,7 +8,9 @@ Vedúci bakalárskej práce: doc. Ing. Peter Butka, PhD.
 
 Konzultanti: Ing. Viera Krešňáková, PhD., Ing. Lenka Kališková 
 
+Pre prácu s modelom a vysvetliteľnosťou modelu je potrebné na začiatku nainštalovať potrebné balíky. Na prácu je mať potrebné nainštalované prostredie, ktoré podporuje súbory typu .ipynb. 
 
+Popis štruktúry programu:
 Súbor: stiahnutie_ulozenie_dat_OMNI.ipynb
 - súbor obsahuje stiahnutie dát a ich ulozenie do csv súboru omni_full.csv
 
