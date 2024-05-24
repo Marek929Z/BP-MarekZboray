@@ -12,9 +12,6 @@ Pre prácu s modelom a vysvetliteľnosťou modelu je potrebné na začiatku nain
 
 Popis štruktúry programu:
 
-Súbor: stiahnutie_ulozenie_dat_OMNI.ipynb
-- súbor obsahuje stiahnutie dát a ich ulozenie do csv súboru omni_full.csv
-
 Súbor: data_priprava.ipynb
 - súbor obsahuje prípravu dát a ich uloženie do csv súboru omni_full_plus_indexes.csv
 
